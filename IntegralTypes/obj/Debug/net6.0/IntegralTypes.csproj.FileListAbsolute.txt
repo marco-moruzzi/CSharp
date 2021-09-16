@@ -1,0 +1,16 @@
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\bin\Debug\net6.0\IntegralTypes.exe
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\bin\Debug\net6.0\IntegralTypes.deps.json
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\bin\Debug\net6.0\IntegralTypes.runtimeconfig.json
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\bin\Debug\net6.0\IntegralTypes.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\bin\Debug\net6.0\ref\IntegralTypes.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\bin\Debug\net6.0\IntegralTypes.pdb
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\obj\Debug\net6.0\IntegralTypes.GlobalUsings.g.cs
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\obj\Debug\net6.0\IntegralTypes.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\obj\Debug\net6.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\obj\Debug\net6.0\IntegralTypes.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\obj\Debug\net6.0\IntegralTypes.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\obj\Debug\net6.0\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\obj\Debug\net6.0\IntegralTypes.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\obj\Debug\net6.0\ref\IntegralTypes.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\obj\Debug\net6.0\IntegralTypes.pdb
+C:\Users\marco\OneDrive\Documenti\CSharp\IntegralTypes\obj\Debug\net6.0\IntegralTypes.genruntimeconfig.cache
