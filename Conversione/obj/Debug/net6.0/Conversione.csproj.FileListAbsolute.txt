@@ -1,0 +1,16 @@
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\obj\Debug\net6.0\Conversione.GlobalUsings.g.cs
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\obj\Debug\net6.0\Conversione.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\obj\Debug\net6.0\Conversione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\obj\Debug\net6.0\Conversione.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\obj\Debug\net6.0\Conversione.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\obj\Debug\net6.0\Conversione.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\bin\Debug\net6.0\Conversione.exe
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\bin\Debug\net6.0\Conversione.deps.json
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\bin\Debug\net6.0\Conversione.runtimeconfig.json
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\bin\Debug\net6.0\Conversione.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\bin\Debug\net6.0\ref\Conversione.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\bin\Debug\net6.0\Conversione.pdb
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\obj\Debug\net6.0\Conversione.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\obj\Debug\net6.0\ref\Conversione.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\obj\Debug\net6.0\Conversione.pdb
+C:\Users\marco\OneDrive\Documenti\CSharp\Conversione\obj\Debug\net6.0\Conversione.genruntimeconfig.cache

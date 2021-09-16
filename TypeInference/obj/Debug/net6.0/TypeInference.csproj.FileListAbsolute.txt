@@ -1,0 +1,16 @@
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\bin\Debug\net6.0\TypeInference.exe
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\bin\Debug\net6.0\TypeInference.deps.json
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\bin\Debug\net6.0\TypeInference.runtimeconfig.json
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\bin\Debug\net6.0\TypeInference.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\bin\Debug\net6.0\ref\TypeInference.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\bin\Debug\net6.0\TypeInference.pdb
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\obj\Debug\net6.0\TypeInference.GlobalUsings.g.cs
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\obj\Debug\net6.0\TypeInference.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\obj\Debug\net6.0\TypeInference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\obj\Debug\net6.0\TypeInference.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\obj\Debug\net6.0\TypeInference.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\obj\Debug\net6.0\TypeInference.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\obj\Debug\net6.0\TypeInference.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\obj\Debug\net6.0\ref\TypeInference.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\obj\Debug\net6.0\TypeInference.pdb
+C:\Users\marco\OneDrive\Documenti\CSharp\TypeInference\obj\Debug\net6.0\TypeInference.genruntimeconfig.cache

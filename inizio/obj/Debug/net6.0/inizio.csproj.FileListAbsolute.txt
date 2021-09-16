@@ -1,0 +1,16 @@
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\bin\Debug\net6.0\inizio.exe
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\bin\Debug\net6.0\inizio.deps.json
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\bin\Debug\net6.0\inizio.runtimeconfig.json
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\bin\Debug\net6.0\inizio.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\bin\Debug\net6.0\ref\inizio.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\bin\Debug\net6.0\inizio.pdb
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\obj\Debug\net6.0\inizio.GlobalUsings.g.cs
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\obj\Debug\net6.0\inizio.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\obj\Debug\net6.0\inizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\obj\Debug\net6.0\inizio.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\obj\Debug\net6.0\inizio.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\obj\Debug\net6.0\inizio.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\obj\Debug\net6.0\inizio.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\obj\Debug\net6.0\ref\inizio.dll
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\obj\Debug\net6.0\inizio.pdb
+C:\Users\marco\OneDrive\Documenti\CSharp\inizio\obj\Debug\net6.0\inizio.genruntimeconfig.cache
